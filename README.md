@@ -4,7 +4,7 @@ This application allows a user to type a prompt into a text box, submit it, and 
 
 ---
 
-🔧 How to Set Up
+ How to Set Up
 
 1. Install the required Python packages:
 
@@ -35,6 +35,6 @@ This application allows a user to type a prompt into a text box, submit it, and 
 
 ---
 
-🔐 Note
+ Note
 
 The `.env` file is listed in `.gitignore` to keep your API key private and safe from being uploaded to GitHub.
